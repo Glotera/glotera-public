@@ -1,16 +1,19 @@
-## Hi there 👋
+🧠 Function Overview
+Glotera is a cross-application translation assistant for macOS that allows you to quickly translate and replace the original text in any input field or selected text.
+It supports multiple triggering methods, suitable for both input and reading scenarios.
 
-<!--
-**Glotera/glotera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 How to Use
+🔤 Input Translation
+• After entering content in any input field, specify the target language (100+), and it will automatically translate and replace the original text.
+• Supports the following triggering methods:
 
-Here are some ideas to get you started:
+1. Type @language code or #language code (e.g., @en or #ja), then double-click the spacebar to initiate the translation.
+2. Pressing the enter key directly after inputting will automatically translate and send (this only works in chat software clients; you can disable this feature in the settings if not desired).
+3. Use the mouse or Cmd+A to select all input content, then click "Translate to" in the pop-up menu or any other language you wish to translate to.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 Reading Translation
+• In non-input areas such as web pages, selecting any text will pop up a translation overlay that quickly displays the corresponding language content.
+
+⚙️ Personalization Settings
+• In Settings, you can customize the triggering commands for any language (e.g., change @zh-tw to @tw).
+• If you do not want the enter key to trigger translation, you can disable this feature in the settings (⚠️ Remember to click Save after making changes).
