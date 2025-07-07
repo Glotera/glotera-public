@@ -1,4 +1,5 @@
 # Glotera Release Notes
+(Download Latest Version)[https://glotera.ai]
 
 ## v0.2.0 - 20250707
 - Added login functionality with support for Email and Google account authentication
