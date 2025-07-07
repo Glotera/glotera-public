@@ -1,6 +1,10 @@
 # Glotera Release Notes
 [Download Latest Version](https://glotera.ai)
 
+## v0.2.1 - 20250707
+- Added release note menu
+- reduce keychain accessment
+  
 ## v0.2.0 - 20250707
 - Added login functionality with support for Email and Google account authentication
 - User types categorized into Free, Pro, and Max: Free users limited to 100 translations per month, Pro users to 500, Max users have unlimited usage
