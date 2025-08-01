@@ -17,3 +17,5 @@ It supports multiple triggering methods, suitable for both input and reading sce
 # ⚙️ Personalization Settings
 • In Settings, you can customize the triggering commands for any language (e.g., change @zh-tw to @tw).
 • If you do not want the enter key to trigger translation, you can disable this feature in the settings (⚠️ Remember to click Save after making changes).
+
+Please check lastest user guide: https://glotera.ai/userguide/
