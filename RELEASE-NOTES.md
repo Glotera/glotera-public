@@ -1,6 +1,17 @@
 # Glotera Release Notes
 [Download Latest Version](https://glotera.ai)
 
+## v0.2.2 - 20250731
+- Resolved compatibility issues that occurred in some computers or applications
+- Add the support for Apple Mail
+- Add the suppot for AdsPower SunBrowser
+- Add the rewrite feature when the original language is same to translated language
+- Add logs for Subsequent error troubleshooting
+- Optimize the text editor to translate only the content before the command is triggered
+- Improve the experience when replying via email clients or web mail, preserving the quoted content
+- Fix the bug where selection translation is invalid in WhatsApp and DintTalk history messages
+- Fix the bug in TRAE chat mode
+  
 ## v0.2.1 - 20250707
 - Added release note menu
 - reduce keychain accessment
