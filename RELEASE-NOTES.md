@@ -2,7 +2,7 @@
 [Download Latest Version](https://glotera.ai)
 
 ## v0.2.3 - 20250818
-- Add Translation Copilot for WhatsApp(Only support English and Chinese now)
+- Add Translation Copilot for WhatsApp(Only support English and Chinese MacOS now)
 - fix the input box selection translation issue in Whatsapp and WeChat
 - fix the Shift+Cmd+A shortcuts confilction 
   
