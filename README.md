@@ -39,6 +39,7 @@ Translation Copilot is Glotera's automatic translation assistant designed for Wh
 
 > **Note:** Translation Copilot currently supports WhatsApp only. More chat apps will be supported in the future.
 
+See more, please visit  [Glotera wesbite](https://glotera.ai)
 
 
 ## ⚙️ Personalization Settings
