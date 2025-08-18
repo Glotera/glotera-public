@@ -39,9 +39,10 @@ Translation Copilot is Glotera's automatic translation assistant designed for Wh
 
 > **Note:** Translation Copilot currently supports WhatsApp only. More chat apps will be supported in the future.
 
-See more, please visit  [Glotera wesbite](https://glotera.ai)
-
 
 ## ⚙️ Personalization Settings
 - In Settings, you can customize the triggering commands for any language (e.g., change @zh-tw to @tw).
-- If you do not want the enter key to trigger translation, you can disable this feature in the settings 
+- If you do not want the enter key to trigger translation, you can disable this feature in the settings
+
+
+See more, please visit  [Glotera wesbite](https://glotera.ai)
