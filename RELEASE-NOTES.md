@@ -1,6 +1,17 @@
 # Glotera Release Notes
-[Download Latest Version](https://glotera.ai)
+[Download Latest Version](https://glotera.ai/download)
 
+## v0.2.5 - 20250905
+- Add explains and background knowledge for Selection Transaltion
+- Add Follow-up Question feature for Selection Transltion
+- Optimize selection menubar display and add user prefered or system language
+- Add error messages alert when translating fails 
+
+## v0.2.4 - 20250821
+- Add 7-days free trial
+- Update Pro monthly quota from 500 to 5000
+- Disabled Max temporarily
+- 
 ## v0.2.3 - 20250818
 - Add Translation Copilot for WhatsApp(Only support English and Chinese MacOS now)
 - fix the input box selection translation issue in Whatsapp and WeChat
