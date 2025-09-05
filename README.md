@@ -3,21 +3,30 @@ Glotera is a cross-application translation assistant for macOS that allows you t
 
 
 ## 🚀 How to Use
-### 🔤 Input Translation
+### 🔤 Inline Translation
 - After entering content in any input field, specify the target language (100+), and it will automatically translate and replace the original text.
 - Supports the following triggering methods:
   - Type @language code or #language code (e.g., @en or #ja), then double-click the spacebar to initiate the translation.
-  - Pressing the enter key directly after inputting will automatically translate and send (this only works in chat software clients; you can disable this feature in the settings if not desired).
+  - Pressing the enter key directly after inputting will automatically translate and send (this only works in chat software clients; you can disable this feature in the settings if not desired in Settings -> Favorite Settings -> With Trigger).
   - Use the mouse or Cmd+A to select all input content, then click "Translate to" in the pop-up menu or any other language you wish to translate to.
 
-### 📄 Reading Translation
+### 📄 Selection Translation
 - In non-input areas such as web pages, selecting any text will pop up a translation overlay that quickly displays the corresponding language content.
-
+- **Enhanced Reading Features:**
+  - **Phrase Explanations**: Key terms and idioms are automatically explained
+  - **Cultural Context**: Background information is provided for culturally significant content
+  - **Follow-up Question**:  
+    > Available for Pro/Max users only
+    1. After receiving a translation, click the chat icon on the upper right corner
+    2. Type your question about any part of the translation
+    3. Get detailed, contextual answers to deepen your understanding
+    4. Continue the conversation to explore related topics
+   
 ### 🤖 Translation Copilot for chat
 
 > Available for Pro/Max users only
 
-Translation Copilot is Glotera's automatic translation assistant designed for WhatsApp chat scenarios. It eliminates the need to manually enter trigger commands like @en or #ja, making cross-language communication effortless.
+Translation Copilot is Glotera's automatic translation assistant designed for IM chat scenarios. It eliminates the need to manually enter trigger commands like @en or #ja, making cross-language communication effortless.
 
 #### How to Enable Translation Copilot
 
@@ -38,11 +47,10 @@ Translation Copilot is Glotera's automatic translation assistant designed for Wh
 - You can customize which languages are auto-translated in `Settings -> Favorite Settings -> Auto Translation Rules`.
 
 > **Note:** Translation Copilot currently supports WhatsApp only. More chat apps will be supported in the future.
-
+ 
 
 ## ⚙️ Personalization Settings
 - In Settings, you can customize the triggering commands for any language (e.g., change @zh-tw to @tw).
-- If you do not want the enter key to trigger translation, you can disable this feature in the settings
-
+- If you do not want the enter key to trigger translation, you can disable this feature in the settings 
 
 See more, please visit  [Glotera wesbite](https://glotera.ai)
